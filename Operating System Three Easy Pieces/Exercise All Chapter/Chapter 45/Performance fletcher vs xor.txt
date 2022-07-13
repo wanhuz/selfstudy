@@ -1,0 +1,8 @@
+Seconds to compute:
+
+fletcher	xor
+0.006218	0.005505	
+0.006266	0.005773
+0.005583	0.005421
+
+Xor is faster than fletcher
